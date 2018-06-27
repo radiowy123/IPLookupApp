@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_202494_iplookup_ipaddressinfo</description>
+        <name>x_202494_iplookup_ipaddressinfo</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>wojciech.bonk</sys_created_by>
+        <sys_created_on>2018-06-27 07:25:36</sys_created_on>
+        <sys_id>af90d5c4db031300f933f2823996195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_202494_iplookup_ipaddressinfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_202494_iplookup">c5178d00db031300f933f282399619d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">c5178d00db031300f933f282399619d5</sys_scope>
+        <sys_update_name>sys_security_acl_af90d5c4db031300f933f2823996195d</sys_update_name>
+        <sys_updated_by>wojciech.bonk</sys_updated_by>
+        <sys_updated_on>2018-06-27 07:25:36</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
